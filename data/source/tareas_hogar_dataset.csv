@@ -1,0 +1,1001 @@
+task,difficult,time,priority,weather,hour
+Sacar la basura,3,20,Alta,Nublado,Tarde
+Sacar la basura,5,30,Media,Soleado,Mañana
+Organizar sala,3,15,Alta,Ventoso,Mañana
+Lavar ropa,3,45,Alta,Lluvioso,Mañana
+Planchar ropa,4,90,Baja,Ventoso,Tarde
+Limpiar ventanas,4,90,Alta,Ventoso,Mañana
+Organizar sala,4,20,Media,Ventoso,Tarde
+Cocinar,1,90,Alta,Nublado,Mañana
+Organizar sala,1,10,Media,Soleado,Tarde
+Limpiar baño,3,15,Media,Nublado,Mañana
+Lavar ropa,2,30,Media,Lluvioso,Mañana
+Sacar la basura,1,20,Media,Ventoso,Noche
+Cocinar,5,75,Alta,Soleado,Tarde
+Cocinar,2,30,Baja,Nublado,Mañana
+Lavar platos,1,90,Media,Soleado,Mañana
+Sacar la basura,1,75,Media,Nublado,Noche
+Regar plantas,4,90,Alta,Soleado,Tarde
+Lavar ropa,1,90,Baja,Soleado,Mañana
+Lavar ropa,3,90,Baja,Soleado,Tarde
+Barrer,5,90,Baja,Nublado,Tarde
+Limpiar baño,3,15,Alta,Ventoso,Noche
+Limpiar ventanas,2,45,Baja,Ventoso,Tarde
+Tender cama,1,60,Baja,Nublado,Mañana
+Planchar ropa,2,45,Alta,Lluvioso,Mañana
+Limpiar ventanas,3,75,Baja,Lluvioso,Mañana
+Lavar ropa,2,20,Baja,Nublado,Mañana
+Organizar sala,1,75,Baja,Lluvioso,Noche
+Limpiar ventanas,4,90,Baja,Nublado,Mañana
+Cocinar,3,60,Baja,Nublado,Noche
+Cocinar,2,90,Baja,Lluvioso,Noche
+Regar plantas,1,20,Baja,Ventoso,Noche
+Limpiar baño,1,60,Baja,Lluvioso,Tarde
+Organizar sala,2,60,Media,Nublado,Mañana
+Organizar sala,4,30,Baja,Soleado,Tarde
+Limpiar ventanas,5,45,Alta,Soleado,Mañana
+Planchar ropa,1,10,Baja,Ventoso,Tarde
+Limpiar cocina,3,10,Media,Nublado,Mañana
+Lavar ropa,3,75,Alta,Ventoso,Mañana
+Limpiar baño,2,15,Baja,Lluvioso,Mañana
+Tender cama,2,45,Alta,Nublado,Mañana
+Pasar la aspiradora,2,90,Media,Lluvioso,Tarde
+Organizar sala,5,30,Alta,Nublado,Noche
+Lavar platos,5,10,Media,Nublado,Mañana
+Barrer,1,20,Baja,Lluvioso,Mañana
+Sacar la basura,5,20,Media,Lluvioso,Tarde
+Tender cama,4,10,Media,Nublado,Noche
+Lavar platos,3,15,Alta,Nublado,Mañana
+Limpiar cocina,3,90,Alta,Ventoso,Tarde
+Limpiar ventanas,4,30,Baja,Soleado,Mañana
+Cocinar,2,30,Alta,Soleado,Mañana
+Sacar la basura,3,75,Baja,Soleado,Noche
+Limpiar baño,2,10,Alta,Nublado,Tarde
+Cocinar,5,90,Media,Nublado,Noche
+Barrer,3,20,Alta,Soleado,Mañana
+Cocinar,4,75,Alta,Soleado,Noche
+Limpiar baño,4,20,Alta,Nublado,Mañana
+Planchar ropa,2,45,Alta,Lluvioso,Mañana
+Regar plantas,5,60,Alta,Ventoso,Mañana
+Lavar ropa,3,90,Media,Nublado,Noche
+Organizar sala,1,60,Media,Nublado,Tarde
+Planchar ropa,4,15,Alta,Soleado,Tarde
+Tender cama,5,20,Alta,Nublado,Mañana
+Limpiar ventanas,2,90,Baja,Lluvioso,Noche
+Sacar la basura,4,10,Alta,Ventoso,Tarde
+Cocinar,3,20,Media,Ventoso,Noche
+Planchar ropa,3,75,Alta,Ventoso,Tarde
+Limpiar baño,5,10,Media,Lluvioso,Noche
+Lavar ropa,3,20,Baja,Nublado,Mañana
+Limpiar ventanas,2,60,Baja,Lluvioso,Mañana
+Regar plantas,1,90,Baja,Nublado,Noche
+Limpiar baño,1,10,Baja,Lluvioso,Tarde
+Barrer,2,20,Baja,Lluvioso,Mañana
+Organizar sala,5,30,Media,Lluvioso,Tarde
+Lavar ropa,5,15,Media,Ventoso,Noche
+Regar plantas,1,15,Alta,Lluvioso,Noche
+Sacar la basura,2,75,Media,Soleado,Mañana
+Tender cama,3,90,Media,Soleado,Noche
+Regar plantas,5,90,Baja,Lluvioso,Noche
+Limpiar ventanas,2,30,Alta,Ventoso,Noche
+Barrer,4,90,Alta,Ventoso,Mañana
+Regar plantas,2,15,Alta,Soleado,Mañana
+Barrer,2,15,Media,Lluvioso,Noche
+Organizar sala,4,45,Baja,Ventoso,Noche
+Lavar ropa,5,90,Baja,Lluvioso,Noche
+Lavar platos,3,30,Baja,Lluvioso,Tarde
+Barrer,4,75,Alta,Nublado,Noche
+Limpiar ventanas,1,75,Baja,Nublado,Mañana
+Limpiar baño,4,90,Media,Lluvioso,Noche
+Lavar ropa,3,20,Alta,Nublado,Mañana
+Lavar platos,4,30,Media,Nublado,Noche
+Sacar la basura,4,75,Media,Soleado,Mañana
+Limpiar cocina,5,60,Alta,Lluvioso,Mañana
+Regar plantas,4,45,Media,Soleado,Tarde
+Regar plantas,5,15,Media,Soleado,Mañana
+Organizar sala,3,15,Media,Ventoso,Tarde
+Planchar ropa,5,90,Alta,Nublado,Mañana
+Lavar ropa,4,60,Baja,Lluvioso,Mañana
+Limpiar ventanas,5,60,Media,Nublado,Tarde
+Regar plantas,5,75,Media,Nublado,Noche
+Tender cama,4,15,Media,Lluvioso,Mañana
+Lavar platos,2,75,Media,Nublado,Mañana
+Lavar platos,3,45,Media,Lluvioso,Mañana
+Pasar la aspiradora,4,20,Alta,Ventoso,Noche
+Pasar la aspiradora,4,10,Media,Nublado,Noche
+Organizar sala,3,15,Baja,Soleado,Tarde
+Sacar la basura,5,30,Media,Lluvioso,Mañana
+Barrer,2,30,Media,Lluvioso,Noche
+Planchar ropa,2,15,Alta,Lluvioso,Mañana
+Barrer,2,60,Alta,Lluvioso,Mañana
+Barrer,1,45,Media,Ventoso,Noche
+Planchar ropa,5,30,Media,Soleado,Mañana
+Limpiar baño,4,60,Media,Ventoso,Mañana
+Organizar sala,5,20,Alta,Ventoso,Noche
+Planchar ropa,2,15,Media,Ventoso,Mañana
+Lavar ropa,1,90,Media,Lluvioso,Noche
+Limpiar cocina,1,45,Alta,Ventoso,Mañana
+Limpiar cocina,5,20,Baja,Soleado,Noche
+Sacar la basura,4,60,Alta,Soleado,Noche
+Pasar la aspiradora,2,60,Baja,Lluvioso,Noche
+Barrer,5,75,Baja,Soleado,Tarde
+Limpiar ventanas,1,75,Baja,Nublado,Tarde
+Sacar la basura,3,45,Media,Ventoso,Tarde
+Tender cama,5,30,Alta,Ventoso,Tarde
+Lavar ropa,1,20,Media,Nublado,Mañana
+Regar plantas,2,90,Media,Soleado,Tarde
+Limpiar cocina,2,30,Media,Soleado,Mañana
+Regar plantas,5,45,Alta,Lluvioso,Mañana
+Limpiar baño,5,75,Baja,Ventoso,Noche
+Regar plantas,1,75,Alta,Soleado,Noche
+Limpiar baño,2,45,Alta,Soleado,Tarde
+Cocinar,4,45,Baja,Nublado,Tarde
+Sacar la basura,3,10,Alta,Ventoso,Mañana
+Barrer,2,30,Baja,Ventoso,Tarde
+Lavar ropa,3,60,Media,Ventoso,Tarde
+Planchar ropa,4,15,Baja,Nublado,Mañana
+Limpiar ventanas,3,30,Alta,Nublado,Mañana
+Sacar la basura,1,75,Alta,Ventoso,Tarde
+Barrer,1,75,Alta,Soleado,Mañana
+Regar plantas,5,90,Media,Soleado,Mañana
+Barrer,3,90,Alta,Ventoso,Mañana
+Pasar la aspiradora,1,20,Baja,Ventoso,Noche
+Lavar ropa,5,10,Baja,Ventoso,Noche
+Planchar ropa,5,45,Media,Lluvioso,Tarde
+Cocinar,3,45,Alta,Ventoso,Tarde
+Lavar platos,3,90,Baja,Lluvioso,Mañana
+Pasar la aspiradora,2,20,Alta,Lluvioso,Mañana
+Limpiar ventanas,5,60,Media,Nublado,Mañana
+Planchar ropa,4,75,Baja,Soleado,Noche
+Planchar ropa,4,20,Media,Nublado,Mañana
+Planchar ropa,4,60,Alta,Ventoso,Tarde
+Regar plantas,5,30,Alta,Lluvioso,Noche
+Organizar sala,1,60,Alta,Nublado,Tarde
+Regar plantas,2,20,Alta,Soleado,Tarde
+Barrer,3,10,Alta,Lluvioso,Tarde
+Regar plantas,1,75,Media,Soleado,Tarde
+Barrer,5,10,Alta,Ventoso,Tarde
+Limpiar baño,4,20,Baja,Lluvioso,Noche
+Barrer,5,90,Baja,Lluvioso,Tarde
+Tender cama,3,30,Media,Nublado,Mañana
+Limpiar ventanas,5,15,Alta,Ventoso,Mañana
+Limpiar baño,1,60,Media,Lluvioso,Mañana
+Lavar ropa,5,15,Alta,Nublado,Noche
+Pasar la aspiradora,3,60,Baja,Ventoso,Noche
+Organizar sala,3,30,Media,Soleado,Noche
+Lavar ropa,5,15,Baja,Soleado,Mañana
+Lavar platos,5,30,Alta,Lluvioso,Mañana
+Regar plantas,5,30,Alta,Lluvioso,Mañana
+Barrer,1,90,Alta,Lluvioso,Tarde
+Sacar la basura,3,10,Media,Soleado,Mañana
+Cocinar,1,75,Media,Ventoso,Mañana
+Barrer,3,45,Alta,Lluvioso,Tarde
+Limpiar baño,4,75,Baja,Lluvioso,Mañana
+Regar plantas,3,10,Alta,Ventoso,Noche
+Limpiar cocina,1,15,Alta,Nublado,Noche
+Pasar la aspiradora,1,45,Media,Soleado,Mañana
+Cocinar,1,45,Media,Soleado,Noche
+Cocinar,4,60,Media,Lluvioso,Mañana
+Planchar ropa,5,60,Baja,Nublado,Noche
+Limpiar ventanas,4,10,Media,Soleado,Mañana
+Organizar sala,4,60,Baja,Nublado,Noche
+Pasar la aspiradora,2,20,Alta,Soleado,Tarde
+Limpiar cocina,1,45,Alta,Nublado,Mañana
+Barrer,1,10,Baja,Nublado,Mañana
+Cocinar,2,90,Alta,Soleado,Noche
+Cocinar,1,45,Media,Lluvioso,Mañana
+Tender cama,4,20,Alta,Ventoso,Tarde
+Sacar la basura,3,10,Baja,Soleado,Noche
+Planchar ropa,2,15,Baja,Nublado,Mañana
+Sacar la basura,5,10,Alta,Soleado,Mañana
+Limpiar cocina,1,90,Alta,Nublado,Noche
+Barrer,3,20,Baja,Soleado,Tarde
+Planchar ropa,1,20,Alta,Lluvioso,Noche
+Organizar sala,3,45,Media,Nublado,Tarde
+Pasar la aspiradora,2,60,Baja,Ventoso,Mañana
+Lavar platos,3,10,Baja,Ventoso,Noche
+Tender cama,4,60,Media,Ventoso,Noche
+Limpiar baño,1,10,Media,Soleado,Tarde
+Sacar la basura,3,15,Alta,Soleado,Noche
+Barrer,3,20,Media,Soleado,Mañana
+Lavar ropa,4,10,Media,Lluvioso,Noche
+Cocinar,1,45,Alta,Soleado,Tarde
+Lavar platos,2,75,Media,Ventoso,Tarde
+Limpiar cocina,2,10,Baja,Ventoso,Mañana
+Regar plantas,5,15,Alta,Soleado,Noche
+Limpiar cocina,5,60,Baja,Ventoso,Tarde
+Lavar platos,4,45,Media,Soleado,Noche
+Pasar la aspiradora,3,90,Alta,Lluvioso,Mañana
+Limpiar cocina,3,60,Alta,Soleado,Noche
+Regar plantas,2,60,Baja,Soleado,Noche
+Cocinar,2,60,Alta,Nublado,Tarde
+Limpiar cocina,2,30,Alta,Nublado,Tarde
+Barrer,2,20,Media,Nublado,Tarde
+Limpiar baño,1,10,Media,Lluvioso,Mañana
+Lavar ropa,2,45,Alta,Soleado,Tarde
+Lavar ropa,5,75,Media,Ventoso,Mañana
+Limpiar cocina,2,20,Baja,Soleado,Mañana
+Lavar ropa,5,60,Alta,Lluvioso,Tarde
+Limpiar cocina,4,10,Alta,Nublado,Tarde
+Tender cama,1,45,Alta,Ventoso,Noche
+Sacar la basura,4,20,Alta,Soleado,Mañana
+Lavar platos,4,75,Media,Soleado,Mañana
+Barrer,5,20,Media,Nublado,Tarde
+Pasar la aspiradora,2,75,Alta,Nublado,Mañana
+Barrer,3,15,Media,Ventoso,Mañana
+Lavar platos,2,15,Baja,Soleado,Mañana
+Cocinar,4,30,Media,Lluvioso,Noche
+Limpiar ventanas,1,60,Media,Nublado,Noche
+Pasar la aspiradora,1,60,Alta,Soleado,Tarde
+Limpiar ventanas,5,15,Media,Lluvioso,Noche
+Limpiar cocina,2,30,Baja,Lluvioso,Noche
+Limpiar ventanas,3,90,Baja,Lluvioso,Tarde
+Regar plantas,2,20,Baja,Nublado,Mañana
+Regar plantas,4,75,Media,Ventoso,Mañana
+Limpiar ventanas,1,10,Baja,Nublado,Noche
+Organizar sala,5,10,Media,Ventoso,Mañana
+Limpiar baño,4,60,Alta,Soleado,Mañana
+Barrer,3,10,Alta,Lluvioso,Tarde
+Barrer,5,15,Alta,Soleado,Mañana
+Barrer,5,30,Media,Nublado,Tarde
+Pasar la aspiradora,3,45,Media,Nublado,Mañana
+Pasar la aspiradora,5,45,Media,Lluvioso,Noche
+Limpiar cocina,3,75,Media,Soleado,Tarde
+Cocinar,2,15,Alta,Lluvioso,Noche
+Planchar ropa,2,10,Baja,Soleado,Mañana
+Cocinar,2,15,Alta,Ventoso,Noche
+Limpiar baño,1,60,Baja,Nublado,Tarde
+Limpiar cocina,1,60,Media,Nublado,Tarde
+Limpiar ventanas,5,45,Media,Nublado,Tarde
+Pasar la aspiradora,5,90,Media,Soleado,Noche
+Regar plantas,4,10,Baja,Nublado,Tarde
+Pasar la aspiradora,3,75,Alta,Ventoso,Mañana
+Tender cama,4,60,Media,Lluvioso,Noche
+Cocinar,4,75,Media,Soleado,Mañana
+Sacar la basura,1,15,Alta,Ventoso,Noche
+Cocinar,5,20,Alta,Lluvioso,Noche
+Planchar ropa,5,90,Baja,Nublado,Noche
+Limpiar ventanas,3,45,Alta,Nublado,Noche
+Organizar sala,2,60,Baja,Lluvioso,Mañana
+Limpiar ventanas,2,30,Baja,Ventoso,Mañana
+Organizar sala,3,60,Alta,Ventoso,Tarde
+Limpiar baño,4,15,Media,Lluvioso,Noche
+Pasar la aspiradora,3,45,Baja,Soleado,Noche
+Cocinar,2,15,Baja,Nublado,Mañana
+Tender cama,4,90,Media,Lluvioso,Tarde
+Lavar platos,3,60,Alta,Ventoso,Tarde
+Planchar ropa,3,10,Alta,Lluvioso,Noche
+Limpiar cocina,1,60,Media,Nublado,Noche
+Cocinar,3,30,Alta,Nublado,Noche
+Limpiar ventanas,2,15,Alta,Nublado,Tarde
+Lavar ropa,5,45,Media,Nublado,Mañana
+Lavar ropa,4,10,Media,Lluvioso,Noche
+Pasar la aspiradora,3,20,Media,Soleado,Tarde
+Lavar platos,4,15,Media,Ventoso,Mañana
+Organizar sala,4,10,Alta,Nublado,Noche
+Limpiar cocina,5,30,Media,Lluvioso,Tarde
+Tender cama,5,20,Alta,Ventoso,Tarde
+Lavar platos,4,30,Alta,Lluvioso,Tarde
+Tender cama,1,30,Alta,Lluvioso,Mañana
+Sacar la basura,3,75,Baja,Lluvioso,Mañana
+Lavar ropa,2,30,Media,Nublado,Mañana
+Cocinar,4,60,Baja,Soleado,Noche
+Planchar ropa,4,45,Baja,Nublado,Noche
+Pasar la aspiradora,4,60,Alta,Lluvioso,Noche
+Regar plantas,1,10,Media,Lluvioso,Tarde
+Limpiar baño,5,60,Baja,Soleado,Mañana
+Pasar la aspiradora,1,90,Alta,Ventoso,Mañana
+Tender cama,2,60,Baja,Lluvioso,Noche
+Limpiar ventanas,4,15,Alta,Soleado,Noche
+Tender cama,5,45,Media,Ventoso,Noche
+Limpiar baño,1,20,Media,Nublado,Mañana
+Limpiar baño,3,20,Alta,Lluvioso,Mañana
+Lavar platos,1,75,Baja,Lluvioso,Noche
+Lavar ropa,5,60,Alta,Lluvioso,Tarde
+Organizar sala,5,30,Alta,Nublado,Tarde
+Lavar ropa,1,30,Alta,Soleado,Tarde
+Limpiar baño,4,90,Alta,Soleado,Noche
+Lavar ropa,2,20,Media,Ventoso,Tarde
+Limpiar ventanas,4,20,Media,Soleado,Tarde
+Tender cama,2,15,Media,Nublado,Tarde
+Limpiar ventanas,5,75,Alta,Lluvioso,Mañana
+Lavar platos,2,90,Alta,Ventoso,Noche
+Limpiar ventanas,1,20,Media,Ventoso,Mañana
+Limpiar ventanas,5,30,Alta,Nublado,Mañana
+Organizar sala,3,60,Baja,Lluvioso,Mañana
+Limpiar baño,3,45,Media,Nublado,Mañana
+Sacar la basura,5,30,Alta,Lluvioso,Mañana
+Regar plantas,4,15,Alta,Lluvioso,Noche
+Sacar la basura,2,90,Media,Ventoso,Mañana
+Planchar ropa,1,20,Media,Lluvioso,Tarde
+Limpiar baño,2,20,Baja,Soleado,Noche
+Pasar la aspiradora,2,75,Baja,Ventoso,Mañana
+Lavar ropa,2,10,Alta,Nublado,Tarde
+Cocinar,2,30,Media,Lluvioso,Noche
+Planchar ropa,3,20,Alta,Ventoso,Mañana
+Pasar la aspiradora,2,45,Media,Ventoso,Noche
+Sacar la basura,2,90,Alta,Nublado,Mañana
+Limpiar ventanas,2,75,Baja,Ventoso,Noche
+Lavar platos,1,30,Media,Ventoso,Noche
+Pasar la aspiradora,3,60,Baja,Nublado,Noche
+Sacar la basura,1,60,Alta,Nublado,Tarde
+Lavar ropa,3,75,Baja,Nublado,Noche
+Barrer,1,60,Media,Nublado,Noche
+Tender cama,5,45,Alta,Nublado,Noche
+Limpiar ventanas,1,15,Baja,Lluvioso,Mañana
+Planchar ropa,3,10,Baja,Lluvioso,Noche
+Regar plantas,5,15,Media,Soleado,Tarde
+Tender cama,2,20,Media,Ventoso,Tarde
+Limpiar cocina,1,90,Baja,Nublado,Tarde
+Barrer,4,20,Media,Ventoso,Tarde
+Limpiar ventanas,1,60,Baja,Nublado,Mañana
+Planchar ropa,2,20,Baja,Soleado,Noche
+Lavar platos,4,75,Media,Nublado,Mañana
+Lavar platos,5,30,Alta,Lluvioso,Mañana
+Tender cama,3,45,Media,Soleado,Mañana
+Limpiar ventanas,3,60,Media,Nublado,Mañana
+Limpiar ventanas,2,10,Baja,Lluvioso,Tarde
+Cocinar,5,10,Baja,Ventoso,Tarde
+Pasar la aspiradora,1,30,Alta,Nublado,Noche
+Lavar ropa,3,15,Alta,Nublado,Mañana
+Pasar la aspiradora,4,60,Baja,Soleado,Tarde
+Lavar ropa,5,30,Alta,Soleado,Tarde
+Lavar platos,4,90,Baja,Nublado,Noche
+Limpiar baño,4,75,Media,Soleado,Noche
+Limpiar cocina,1,20,Alta,Soleado,Mañana
+Tender cama,5,30,Alta,Soleado,Noche
+Limpiar cocina,5,20,Media,Nublado,Mañana
+Cocinar,2,10,Media,Soleado,Tarde
+Planchar ropa,4,15,Alta,Ventoso,Tarde
+Organizar sala,1,10,Alta,Soleado,Tarde
+Barrer,3,75,Baja,Ventoso,Tarde
+Lavar platos,4,10,Media,Nublado,Noche
+Lavar ropa,3,75,Baja,Nublado,Mañana
+Regar plantas,2,90,Media,Soleado,Noche
+Pasar la aspiradora,1,30,Alta,Soleado,Noche
+Limpiar ventanas,5,45,Baja,Nublado,Noche
+Sacar la basura,5,30,Alta,Lluvioso,Tarde
+Limpiar cocina,1,45,Alta,Soleado,Noche
+Organizar sala,2,60,Media,Ventoso,Mañana
+Tender cama,4,90,Media,Soleado,Tarde
+Limpiar cocina,4,30,Media,Ventoso,Noche
+Limpiar baño,2,20,Media,Lluvioso,Tarde
+Lavar platos,1,90,Alta,Lluvioso,Noche
+Pasar la aspiradora,3,10,Media,Nublado,Noche
+Lavar ropa,1,30,Alta,Soleado,Noche
+Limpiar cocina,4,60,Baja,Nublado,Mañana
+Limpiar cocina,2,10,Media,Nublado,Tarde
+Lavar ropa,4,10,Media,Ventoso,Tarde
+Regar plantas,3,10,Alta,Lluvioso,Mañana
+Limpiar ventanas,3,45,Alta,Ventoso,Noche
+Planchar ropa,5,10,Baja,Ventoso,Tarde
+Limpiar cocina,1,15,Media,Soleado,Noche
+Barrer,3,90,Alta,Lluvioso,Tarde
+Lavar ropa,5,30,Alta,Ventoso,Noche
+Barrer,2,15,Media,Ventoso,Mañana
+Barrer,3,60,Baja,Nublado,Mañana
+Tender cama,2,10,Media,Soleado,Noche
+Lavar ropa,5,75,Baja,Lluvioso,Tarde
+Lavar platos,2,60,Alta,Nublado,Noche
+Limpiar cocina,4,10,Media,Lluvioso,Noche
+Tender cama,2,15,Baja,Nublado,Noche
+Cocinar,2,30,Alta,Lluvioso,Tarde
+Limpiar baño,1,90,Alta,Nublado,Tarde
+Regar plantas,4,10,Media,Ventoso,Tarde
+Cocinar,2,60,Baja,Lluvioso,Tarde
+Limpiar baño,2,45,Baja,Ventoso,Mañana
+Limpiar cocina,2,15,Media,Ventoso,Mañana
+Sacar la basura,1,20,Baja,Nublado,Mañana
+Sacar la basura,1,75,Alta,Soleado,Tarde
+Lavar ropa,4,45,Alta,Ventoso,Noche
+Limpiar baño,1,10,Media,Lluvioso,Noche
+Organizar sala,2,90,Alta,Ventoso,Tarde
+Lavar ropa,3,30,Baja,Nublado,Mañana
+Pasar la aspiradora,1,45,Baja,Nublado,Tarde
+Limpiar cocina,5,45,Media,Ventoso,Tarde
+Planchar ropa,1,45,Baja,Lluvioso,Mañana
+Lavar platos,5,75,Baja,Nublado,Tarde
+Organizar sala,4,45,Media,Nublado,Tarde
+Limpiar ventanas,4,15,Baja,Soleado,Tarde
+Lavar platos,3,10,Media,Nublado,Mañana
+Sacar la basura,2,15,Media,Ventoso,Tarde
+Tender cama,1,45,Alta,Lluvioso,Mañana
+Planchar ropa,4,20,Alta,Ventoso,Tarde
+Regar plantas,1,30,Alta,Nublado,Mañana
+Lavar ropa,5,15,Media,Lluvioso,Tarde
+Regar plantas,3,10,Baja,Lluvioso,Mañana
+Limpiar baño,5,15,Baja,Lluvioso,Tarde
+Cocinar,2,20,Media,Nublado,Mañana
+Barrer,3,10,Media,Soleado,Mañana
+Regar plantas,3,10,Media,Nublado,Noche
+Sacar la basura,3,60,Alta,Soleado,Noche
+Regar plantas,5,30,Alta,Ventoso,Tarde
+Regar plantas,2,60,Alta,Soleado,Tarde
+Lavar ropa,5,45,Alta,Nublado,Noche
+Tender cama,1,60,Media,Lluvioso,Tarde
+Organizar sala,1,75,Media,Ventoso,Mañana
+Limpiar cocina,2,30,Baja,Ventoso,Mañana
+Regar plantas,1,30,Media,Lluvioso,Tarde
+Lavar ropa,2,90,Media,Lluvioso,Tarde
+Lavar ropa,1,10,Media,Lluvioso,Tarde
+Limpiar baño,3,75,Alta,Nublado,Noche
+Tender cama,5,15,Baja,Nublado,Noche
+Limpiar cocina,3,30,Baja,Ventoso,Noche
+Barrer,4,90,Media,Lluvioso,Tarde
+Lavar platos,1,30,Media,Ventoso,Tarde
+Cocinar,4,15,Baja,Lluvioso,Tarde
+Lavar ropa,2,45,Baja,Lluvioso,Mañana
+Lavar platos,3,20,Alta,Soleado,Tarde
+Barrer,2,20,Media,Ventoso,Noche
+Limpiar baño,2,75,Baja,Ventoso,Tarde
+Lavar ropa,3,45,Media,Nublado,Tarde
+Limpiar baño,3,30,Alta,Soleado,Noche
+Barrer,1,15,Media,Soleado,Mañana
+Sacar la basura,5,60,Alta,Soleado,Tarde
+Organizar sala,2,60,Alta,Ventoso,Mañana
+Pasar la aspiradora,5,15,Media,Soleado,Noche
+Lavar ropa,2,45,Alta,Ventoso,Noche
+Limpiar baño,5,20,Media,Nublado,Noche
+Limpiar ventanas,4,30,Baja,Lluvioso,Mañana
+Tender cama,3,75,Alta,Nublado,Tarde
+Regar plantas,1,60,Baja,Nublado,Mañana
+Regar plantas,2,60,Alta,Nublado,Tarde
+Planchar ropa,3,10,Alta,Nublado,Noche
+Sacar la basura,1,60,Baja,Nublado,Noche
+Limpiar cocina,5,60,Alta,Ventoso,Tarde
+Regar plantas,2,30,Baja,Lluvioso,Tarde
+Sacar la basura,3,20,Media,Ventoso,Mañana
+Tender cama,1,90,Baja,Nublado,Mañana
+Limpiar baño,4,60,Baja,Ventoso,Tarde
+Limpiar ventanas,3,20,Media,Ventoso,Noche
+Limpiar cocina,3,60,Alta,Lluvioso,Tarde
+Lavar ropa,1,10,Baja,Nublado,Tarde
+Barrer,4,30,Media,Ventoso,Noche
+Limpiar cocina,4,10,Media,Ventoso,Tarde
+Tender cama,4,20,Baja,Soleado,Noche
+Tender cama,4,10,Alta,Nublado,Mañana
+Regar plantas,2,10,Alta,Soleado,Mañana
+Planchar ropa,2,90,Baja,Nublado,Tarde
+Barrer,5,45,Media,Lluvioso,Noche
+Tender cama,2,90,Baja,Lluvioso,Mañana
+Sacar la basura,4,30,Alta,Soleado,Noche
+Lavar ropa,4,90,Baja,Ventoso,Noche
+Pasar la aspiradora,4,75,Baja,Nublado,Mañana
+Cocinar,1,30,Alta,Nublado,Mañana
+Regar plantas,1,20,Alta,Soleado,Mañana
+Tender cama,2,10,Alta,Soleado,Tarde
+Regar plantas,5,60,Baja,Lluvioso,Noche
+Limpiar ventanas,5,30,Media,Nublado,Mañana
+Barrer,5,90,Alta,Nublado,Noche
+Tender cama,5,20,Baja,Lluvioso,Mañana
+Planchar ropa,5,60,Baja,Soleado,Noche
+Cocinar,3,10,Baja,Soleado,Tarde
+Tender cama,3,45,Media,Ventoso,Mañana
+Organizar sala,4,75,Media,Ventoso,Tarde
+Limpiar ventanas,4,90,Alta,Nublado,Mañana
+Limpiar baño,1,30,Media,Nublado,Mañana
+Organizar sala,3,90,Media,Lluvioso,Mañana
+Regar plantas,1,45,Alta,Ventoso,Tarde
+Limpiar baño,4,90,Baja,Lluvioso,Noche
+Planchar ropa,4,15,Baja,Ventoso,Noche
+Regar plantas,1,75,Alta,Nublado,Mañana
+Planchar ropa,1,45,Baja,Ventoso,Tarde
+Barrer,3,15,Alta,Soleado,Mañana
+Pasar la aspiradora,5,10,Alta,Ventoso,Noche
+Pasar la aspiradora,5,75,Alta,Soleado,Tarde
+Lavar ropa,4,30,Alta,Nublado,Mañana
+Lavar platos,1,10,Baja,Nublado,Noche
+Limpiar cocina,3,10,Media,Soleado,Tarde
+Barrer,5,75,Media,Ventoso,Tarde
+Regar plantas,2,45,Media,Lluvioso,Tarde
+Limpiar ventanas,4,20,Baja,Soleado,Tarde
+Organizar sala,2,15,Media,Soleado,Tarde
+Planchar ropa,4,20,Alta,Ventoso,Noche
+Limpiar cocina,4,10,Media,Lluvioso,Mañana
+Limpiar ventanas,2,10,Media,Ventoso,Tarde
+Limpiar ventanas,2,45,Media,Lluvioso,Noche
+Tender cama,5,15,Media,Lluvioso,Tarde
+Planchar ropa,3,10,Baja,Soleado,Tarde
+Lavar ropa,4,45,Baja,Lluvioso,Tarde
+Lavar platos,1,15,Baja,Lluvioso,Tarde
+Limpiar ventanas,4,90,Baja,Ventoso,Noche
+Pasar la aspiradora,4,10,Media,Soleado,Mañana
+Cocinar,3,75,Media,Ventoso,Tarde
+Pasar la aspiradora,3,15,Baja,Ventoso,Mañana
+Planchar ropa,1,90,Baja,Soleado,Tarde
+Organizar sala,1,75,Baja,Lluvioso,Noche
+Lavar platos,1,90,Baja,Soleado,Tarde
+Cocinar,3,75,Media,Ventoso,Noche
+Barrer,5,60,Media,Soleado,Tarde
+Organizar sala,4,75,Media,Ventoso,Noche
+Cocinar,4,15,Alta,Ventoso,Mañana
+Regar plantas,5,90,Alta,Ventoso,Mañana
+Lavar platos,4,75,Baja,Soleado,Noche
+Organizar sala,3,20,Media,Soleado,Mañana
+Planchar ropa,2,15,Alta,Lluvioso,Mañana
+Lavar ropa,1,45,Alta,Nublado,Noche
+Sacar la basura,4,45,Alta,Nublado,Mañana
+Regar plantas,3,20,Alta,Lluvioso,Noche
+Cocinar,1,45,Media,Nublado,Tarde
+Limpiar ventanas,3,30,Baja,Soleado,Tarde
+Limpiar baño,4,15,Baja,Soleado,Mañana
+Limpiar baño,2,60,Baja,Lluvioso,Mañana
+Sacar la basura,4,30,Baja,Soleado,Mañana
+Pasar la aspiradora,1,75,Alta,Nublado,Noche
+Sacar la basura,5,30,Media,Soleado,Mañana
+Limpiar baño,1,20,Media,Nublado,Noche
+Pasar la aspiradora,1,60,Media,Ventoso,Mañana
+Organizar sala,1,10,Baja,Nublado,Tarde
+Tender cama,5,10,Alta,Soleado,Tarde
+Barrer,1,10,Media,Nublado,Tarde
+Pasar la aspiradora,3,10,Baja,Nublado,Mañana
+Planchar ropa,1,75,Baja,Ventoso,Tarde
+Limpiar cocina,2,90,Media,Lluvioso,Noche
+Limpiar cocina,2,15,Alta,Soleado,Tarde
+Limpiar baño,2,90,Media,Soleado,Noche
+Limpiar ventanas,4,45,Alta,Ventoso,Noche
+Lavar ropa,2,10,Media,Soleado,Tarde
+Sacar la basura,1,60,Alta,Soleado,Mañana
+Limpiar baño,4,90,Alta,Ventoso,Mañana
+Barrer,1,90,Baja,Nublado,Mañana
+Lavar ropa,5,60,Alta,Soleado,Tarde
+Limpiar cocina,4,10,Baja,Soleado,Noche
+Pasar la aspiradora,2,20,Alta,Ventoso,Mañana
+Sacar la basura,2,20,Alta,Soleado,Mañana
+Barrer,5,75,Alta,Nublado,Noche
+Pasar la aspiradora,1,30,Baja,Nublado,Noche
+Organizar sala,1,75,Alta,Soleado,Tarde
+Pasar la aspiradora,2,90,Alta,Nublado,Tarde
+Limpiar ventanas,5,15,Media,Ventoso,Mañana
+Planchar ropa,2,30,Alta,Soleado,Mañana
+Limpiar baño,5,90,Baja,Soleado,Mañana
+Tender cama,2,75,Alta,Nublado,Tarde
+Tender cama,2,45,Media,Soleado,Tarde
+Cocinar,1,10,Media,Soleado,Noche
+Planchar ropa,5,15,Media,Lluvioso,Noche
+Lavar platos,1,60,Baja,Nublado,Noche
+Planchar ropa,4,90,Baja,Lluvioso,Tarde
+Barrer,1,10,Media,Nublado,Mañana
+Limpiar baño,2,15,Media,Nublado,Noche
+Limpiar baño,1,75,Alta,Lluvioso,Tarde
+Organizar sala,5,30,Media,Ventoso,Tarde
+Sacar la basura,5,10,Alta,Lluvioso,Mañana
+Lavar ropa,5,45,Alta,Ventoso,Mañana
+Limpiar ventanas,5,75,Media,Soleado,Noche
+Lavar ropa,5,10,Baja,Lluvioso,Mañana
+Pasar la aspiradora,1,30,Alta,Soleado,Mañana
+Limpiar cocina,4,15,Baja,Soleado,Mañana
+Pasar la aspiradora,3,15,Alta,Soleado,Tarde
+Organizar sala,2,45,Alta,Nublado,Mañana
+Planchar ropa,3,15,Baja,Soleado,Noche
+Cocinar,1,60,Alta,Ventoso,Tarde
+Lavar platos,4,90,Alta,Nublado,Mañana
+Lavar ropa,3,20,Media,Soleado,Noche
+Planchar ropa,4,15,Media,Ventoso,Tarde
+Tender cama,3,20,Media,Nublado,Noche
+Planchar ropa,2,30,Baja,Lluvioso,Tarde
+Limpiar ventanas,2,60,Alta,Nublado,Noche
+Organizar sala,2,30,Alta,Ventoso,Mañana
+Limpiar cocina,3,90,Baja,Soleado,Noche
+Sacar la basura,2,10,Media,Ventoso,Tarde
+Regar plantas,5,15,Media,Lluvioso,Mañana
+Regar plantas,3,30,Alta,Nublado,Noche
+Limpiar ventanas,2,60,Media,Soleado,Noche
+Planchar ropa,4,20,Alta,Lluvioso,Tarde
+Lavar platos,5,30,Media,Ventoso,Noche
+Cocinar,4,30,Alta,Soleado,Mañana
+Planchar ropa,4,90,Alta,Nublado,Noche
+Barrer,4,20,Baja,Ventoso,Mañana
+Lavar ropa,3,10,Baja,Lluvioso,Noche
+Limpiar cocina,5,60,Baja,Ventoso,Mañana
+Pasar la aspiradora,1,20,Alta,Lluvioso,Noche
+Barrer,4,60,Media,Ventoso,Noche
+Sacar la basura,5,75,Media,Ventoso,Mañana
+Planchar ropa,2,60,Alta,Ventoso,Mañana
+Pasar la aspiradora,5,75,Media,Ventoso,Tarde
+Lavar platos,4,60,Media,Nublado,Noche
+Barrer,5,45,Baja,Soleado,Noche
+Cocinar,2,90,Media,Soleado,Mañana
+Barrer,4,75,Baja,Nublado,Mañana
+Barrer,3,75,Media,Nublado,Tarde
+Limpiar baño,4,20,Alta,Ventoso,Noche
+Sacar la basura,4,30,Media,Nublado,Tarde
+Tender cama,3,45,Media,Lluvioso,Mañana
+Limpiar cocina,4,60,Alta,Ventoso,Tarde
+Organizar sala,2,45,Media,Ventoso,Tarde
+Organizar sala,5,75,Media,Ventoso,Mañana
+Barrer,2,45,Alta,Soleado,Mañana
+Organizar sala,4,20,Alta,Ventoso,Tarde
+Organizar sala,5,75,Baja,Nublado,Mañana
+Limpiar baño,3,30,Media,Soleado,Tarde
+Barrer,5,15,Alta,Soleado,Mañana
+Limpiar cocina,4,90,Baja,Soleado,Mañana
+Barrer,3,60,Baja,Lluvioso,Noche
+Sacar la basura,5,10,Alta,Ventoso,Tarde
+Organizar sala,3,75,Baja,Ventoso,Noche
+Planchar ropa,4,45,Baja,Lluvioso,Tarde
+Limpiar ventanas,4,10,Baja,Ventoso,Tarde
+Limpiar cocina,5,45,Media,Nublado,Tarde
+Pasar la aspiradora,2,45,Baja,Soleado,Tarde
+Planchar ropa,3,10,Alta,Lluvioso,Tarde
+Limpiar cocina,2,20,Baja,Nublado,Noche
+Planchar ropa,3,15,Media,Nublado,Mañana
+Barrer,3,75,Alta,Ventoso,Mañana
+Limpiar cocina,3,60,Baja,Lluvioso,Mañana
+Pasar la aspiradora,3,30,Alta,Nublado,Tarde
+Limpiar cocina,1,10,Media,Lluvioso,Noche
+Barrer,5,90,Media,Lluvioso,Mañana
+Sacar la basura,1,10,Media,Lluvioso,Mañana
+Cocinar,4,10,Alta,Ventoso,Noche
+Lavar platos,4,20,Alta,Ventoso,Tarde
+Sacar la basura,1,75,Media,Soleado,Tarde
+Planchar ropa,4,15,Baja,Nublado,Tarde
+Limpiar baño,5,45,Alta,Soleado,Tarde
+Cocinar,5,75,Baja,Lluvioso,Mañana
+Lavar ropa,1,20,Media,Nublado,Mañana
+Cocinar,5,30,Baja,Nublado,Mañana
+Tender cama,3,30,Alta,Nublado,Mañana
+Limpiar ventanas,2,45,Media,Nublado,Tarde
+Pasar la aspiradora,3,90,Baja,Lluvioso,Mañana
+Lavar platos,3,30,Media,Lluvioso,Mañana
+Organizar sala,1,15,Baja,Soleado,Mañana
+Barrer,4,30,Baja,Ventoso,Tarde
+Sacar la basura,2,10,Baja,Nublado,Tarde
+Limpiar cocina,3,45,Alta,Ventoso,Mañana
+Limpiar baño,4,60,Baja,Ventoso,Noche
+Limpiar baño,2,75,Alta,Lluvioso,Noche
+Sacar la basura,4,10,Media,Soleado,Noche
+Tender cama,1,75,Baja,Ventoso,Mañana
+Lavar ropa,2,20,Baja,Lluvioso,Mañana
+Cocinar,4,75,Baja,Nublado,Tarde
+Organizar sala,1,60,Baja,Lluvioso,Tarde
+Lavar platos,4,90,Baja,Lluvioso,Mañana
+Regar plantas,2,30,Media,Soleado,Tarde
+Regar plantas,4,60,Baja,Ventoso,Tarde
+Cocinar,3,20,Baja,Soleado,Mañana
+Limpiar baño,2,30,Baja,Lluvioso,Mañana
+Pasar la aspiradora,1,60,Media,Lluvioso,Mañana
+Barrer,4,20,Baja,Ventoso,Tarde
+Limpiar cocina,3,45,Alta,Soleado,Noche
+Limpiar cocina,1,45,Media,Ventoso,Tarde
+Sacar la basura,1,45,Baja,Ventoso,Tarde
+Limpiar baño,4,60,Baja,Ventoso,Noche
+Lavar ropa,3,10,Alta,Nublado,Noche
+Regar plantas,3,90,Baja,Ventoso,Tarde
+Barrer,4,10,Media,Lluvioso,Mañana
+Pasar la aspiradora,2,60,Alta,Nublado,Mañana
+Lavar ropa,2,45,Media,Lluvioso,Tarde
+Limpiar baño,5,90,Alta,Lluvioso,Tarde
+Tender cama,1,60,Alta,Nublado,Tarde
+Lavar platos,1,10,Media,Ventoso,Mañana
+Lavar ropa,2,45,Baja,Ventoso,Noche
+Planchar ropa,5,75,Baja,Lluvioso,Mañana
+Lavar ropa,5,60,Media,Lluvioso,Mañana
+Limpiar baño,4,30,Baja,Nublado,Mañana
+Tender cama,5,30,Media,Ventoso,Tarde
+Organizar sala,5,30,Media,Nublado,Mañana
+Sacar la basura,3,10,Media,Nublado,Mañana
+Limpiar cocina,5,90,Alta,Ventoso,Mañana
+Lavar ropa,5,90,Media,Soleado,Noche
+Limpiar cocina,4,60,Baja,Lluvioso,Tarde
+Pasar la aspiradora,5,10,Media,Ventoso,Noche
+Tender cama,5,20,Alta,Lluvioso,Noche
+Regar plantas,3,30,Alta,Ventoso,Noche
+Lavar platos,2,90,Media,Soleado,Noche
+Limpiar ventanas,5,60,Alta,Lluvioso,Noche
+Regar plantas,1,20,Media,Lluvioso,Noche
+Regar plantas,4,30,Baja,Lluvioso,Tarde
+Lavar ropa,1,60,Media,Lluvioso,Tarde
+Limpiar baño,4,30,Baja,Ventoso,Mañana
+Regar plantas,1,75,Alta,Nublado,Tarde
+Organizar sala,5,15,Baja,Nublado,Mañana
+Tender cama,1,75,Alta,Ventoso,Noche
+Barrer,1,45,Alta,Ventoso,Tarde
+Limpiar baño,2,75,Media,Lluvioso,Mañana
+Tender cama,1,10,Baja,Soleado,Noche
+Limpiar baño,3,30,Baja,Lluvioso,Noche
+Organizar sala,5,75,Alta,Ventoso,Mañana
+Lavar ropa,4,75,Media,Nublado,Mañana
+Sacar la basura,1,15,Alta,Nublado,Noche
+Regar plantas,2,10,Alta,Nublado,Mañana
+Lavar platos,5,90,Alta,Soleado,Noche
+Limpiar ventanas,2,45,Alta,Nublado,Tarde
+Limpiar ventanas,1,60,Baja,Soleado,Mañana
+Limpiar baño,2,15,Baja,Ventoso,Mañana
+Tender cama,1,20,Alta,Lluvioso,Tarde
+Organizar sala,5,30,Media,Ventoso,Noche
+Limpiar ventanas,4,30,Media,Lluvioso,Mañana
+Organizar sala,3,20,Baja,Lluvioso,Mañana
+Sacar la basura,2,10,Media,Ventoso,Tarde
+Pasar la aspiradora,3,45,Alta,Ventoso,Mañana
+Cocinar,1,10,Media,Lluvioso,Noche
+Lavar ropa,2,30,Media,Ventoso,Noche
+Regar plantas,3,20,Media,Lluvioso,Noche
+Pasar la aspiradora,2,10,Media,Soleado,Mañana
+Cocinar,3,30,Baja,Nublado,Tarde
+Lavar ropa,5,60,Baja,Ventoso,Tarde
+Cocinar,4,10,Baja,Ventoso,Tarde
+Sacar la basura,3,75,Alta,Soleado,Noche
+Sacar la basura,5,30,Baja,Ventoso,Tarde
+Barrer,3,45,Alta,Ventoso,Mañana
+Tender cama,4,30,Baja,Ventoso,Noche
+Barrer,4,90,Baja,Ventoso,Noche
+Limpiar baño,5,10,Media,Soleado,Tarde
+Lavar platos,2,75,Alta,Soleado,Noche
+Limpiar cocina,2,20,Media,Lluvioso,Noche
+Limpiar ventanas,2,20,Alta,Nublado,Mañana
+Lavar platos,2,10,Media,Lluvioso,Noche
+Regar plantas,4,15,Baja,Ventoso,Tarde
+Pasar la aspiradora,2,90,Baja,Soleado,Noche
+Regar plantas,3,15,Baja,Lluvioso,Noche
+Tender cama,4,15,Media,Nublado,Tarde
+Lavar platos,1,45,Baja,Soleado,Mañana
+Pasar la aspiradora,4,30,Alta,Nublado,Mañana
+Planchar ropa,4,30,Media,Soleado,Noche
+Cocinar,1,10,Media,Ventoso,Tarde
+Tender cama,2,60,Baja,Lluvioso,Tarde
+Cocinar,4,75,Baja,Nublado,Tarde
+Limpiar baño,2,75,Media,Nublado,Mañana
+Organizar sala,5,90,Media,Nublado,Tarde
+Barrer,2,75,Alta,Lluvioso,Noche
+Lavar ropa,2,10,Baja,Ventoso,Tarde
+Planchar ropa,2,75,Alta,Lluvioso,Mañana
+Lavar platos,5,15,Baja,Ventoso,Noche
+Lavar platos,2,45,Media,Lluvioso,Mañana
+Organizar sala,3,75,Alta,Nublado,Noche
+Cocinar,5,30,Alta,Ventoso,Noche
+Pasar la aspiradora,2,45,Baja,Nublado,Noche
+Regar plantas,5,45,Baja,Lluvioso,Mañana
+Lavar ropa,5,45,Baja,Nublado,Noche
+Limpiar ventanas,5,60,Alta,Ventoso,Tarde
+Regar plantas,3,45,Alta,Soleado,Mañana
+Cocinar,3,20,Media,Lluvioso,Mañana
+Lavar platos,3,75,Baja,Soleado,Tarde
+Cocinar,1,20,Baja,Soleado,Mañana
+Sacar la basura,1,90,Alta,Nublado,Tarde
+Limpiar baño,1,45,Media,Lluvioso,Tarde
+Regar plantas,1,20,Baja,Soleado,Mañana
+Barrer,4,60,Media,Lluvioso,Mañana
+Barrer,1,30,Alta,Lluvioso,Mañana
+Limpiar baño,1,45,Media,Soleado,Mañana
+Lavar ropa,1,90,Media,Soleado,Noche
+Sacar la basura,4,45,Baja,Ventoso,Tarde
+Barrer,2,15,Alta,Lluvioso,Noche
+Cocinar,4,75,Alta,Soleado,Mañana
+Limpiar ventanas,5,45,Baja,Ventoso,Mañana
+Limpiar cocina,3,45,Alta,Ventoso,Noche
+Sacar la basura,2,75,Alta,Nublado,Tarde
+Planchar ropa,4,90,Media,Lluvioso,Mañana
+Barrer,3,10,Baja,Soleado,Mañana
+Planchar ropa,3,20,Media,Soleado,Mañana
+Cocinar,4,90,Alta,Nublado,Noche
+Barrer,1,45,Baja,Ventoso,Mañana
+Regar plantas,5,45,Media,Ventoso,Noche
+Organizar sala,4,20,Media,Nublado,Noche
+Organizar sala,5,20,Media,Lluvioso,Tarde
+Pasar la aspiradora,5,10,Alta,Nublado,Tarde
+Sacar la basura,4,60,Alta,Lluvioso,Noche
+Limpiar ventanas,1,75,Media,Ventoso,Noche
+Barrer,3,75,Alta,Ventoso,Mañana
+Cocinar,1,60,Alta,Lluvioso,Noche
+Organizar sala,1,45,Media,Lluvioso,Tarde
+Regar plantas,5,75,Alta,Soleado,Mañana
+Limpiar baño,3,45,Baja,Ventoso,Mañana
+Tender cama,1,45,Alta,Nublado,Tarde
+Regar plantas,3,15,Baja,Lluvioso,Mañana
+Limpiar cocina,1,45,Alta,Nublado,Tarde
+Sacar la basura,2,20,Alta,Nublado,Mañana
+Tender cama,1,60,Media,Ventoso,Noche
+Lavar ropa,4,90,Media,Soleado,Tarde
+Cocinar,4,15,Alta,Nublado,Mañana
+Organizar sala,5,75,Baja,Ventoso,Tarde
+Barrer,1,90,Alta,Ventoso,Tarde
+Limpiar ventanas,4,75,Media,Soleado,Tarde
+Organizar sala,5,15,Media,Nublado,Mañana
+Limpiar baño,1,60,Media,Soleado,Tarde
+Tender cama,1,20,Media,Lluvioso,Noche
+Limpiar ventanas,3,30,Alta,Ventoso,Noche
+Sacar la basura,4,20,Alta,Lluvioso,Tarde
+Planchar ropa,3,15,Baja,Soleado,Noche
+Tender cama,3,20,Baja,Lluvioso,Mañana
+Tender cama,1,75,Media,Nublado,Tarde
+Lavar platos,4,75,Alta,Ventoso,Noche
+Planchar ropa,5,90,Alta,Lluvioso,Tarde
+Lavar ropa,1,75,Baja,Lluvioso,Noche
+Barrer,4,30,Media,Nublado,Mañana
+Limpiar baño,4,60,Media,Nublado,Tarde
+Limpiar baño,4,30,Media,Nublado,Tarde
+Organizar sala,1,20,Alta,Lluvioso,Tarde
+Pasar la aspiradora,1,90,Baja,Lluvioso,Noche
+Cocinar,2,90,Baja,Ventoso,Tarde
+Lavar platos,3,90,Media,Soleado,Noche
+Lavar platos,1,10,Baja,Soleado,Mañana
+Lavar ropa,2,45,Alta,Ventoso,Mañana
+Pasar la aspiradora,5,45,Alta,Nublado,Mañana
+Limpiar baño,2,60,Media,Ventoso,Noche
+Limpiar ventanas,3,20,Baja,Lluvioso,Mañana
+Limpiar baño,5,90,Alta,Ventoso,Tarde
+Organizar sala,2,90,Media,Ventoso,Tarde
+Limpiar baño,3,60,Alta,Lluvioso,Noche
+Tender cama,2,75,Media,Soleado,Tarde
+Lavar platos,2,10,Alta,Lluvioso,Tarde
+Organizar sala,2,30,Media,Soleado,Mañana
+Sacar la basura,1,10,Media,Soleado,Mañana
+Regar plantas,1,20,Baja,Nublado,Noche
+Sacar la basura,1,75,Alta,Soleado,Mañana
+Planchar ropa,5,20,Baja,Lluvioso,Noche
+Pasar la aspiradora,5,90,Alta,Ventoso,Mañana
+Barrer,3,20,Media,Lluvioso,Noche
+Limpiar ventanas,2,75,Media,Nublado,Noche
+Regar plantas,4,30,Alta,Nublado,Noche
+Regar plantas,4,75,Alta,Ventoso,Tarde
+Lavar ropa,4,90,Alta,Soleado,Tarde
+Limpiar baño,2,20,Baja,Soleado,Tarde
+Regar plantas,3,75,Alta,Nublado,Tarde
+Lavar ropa,5,45,Media,Soleado,Mañana
+Pasar la aspiradora,3,60,Alta,Nublado,Noche
+Planchar ropa,5,60,Alta,Lluvioso,Mañana
+Lavar platos,5,20,Baja,Ventoso,Noche
+Planchar ropa,4,10,Alta,Soleado,Noche
+Limpiar cocina,5,60,Media,Soleado,Mañana
+Limpiar cocina,1,75,Baja,Nublado,Tarde
+Cocinar,1,75,Alta,Soleado,Mañana
+Planchar ropa,3,60,Baja,Nublado,Noche
+Limpiar baño,2,75,Baja,Ventoso,Mañana
+Cocinar,2,60,Alta,Lluvioso,Mañana
+Lavar platos,2,15,Baja,Lluvioso,Noche
+Pasar la aspiradora,3,90,Alta,Nublado,Tarde
+Organizar sala,4,90,Baja,Nublado,Noche
+Cocinar,1,10,Media,Lluvioso,Noche
+Sacar la basura,5,90,Alta,Nublado,Noche
+Cocinar,3,20,Media,Soleado,Mañana
+Limpiar baño,3,20,Baja,Lluvioso,Tarde
+Lavar ropa,5,75,Media,Nublado,Noche
+Lavar ropa,4,60,Alta,Nublado,Noche
+Regar plantas,1,75,Media,Lluvioso,Mañana
+Pasar la aspiradora,5,20,Baja,Soleado,Noche
+Limpiar cocina,2,75,Alta,Nublado,Noche
+Organizar sala,5,20,Media,Soleado,Noche
+Sacar la basura,2,30,Baja,Ventoso,Mañana
+Sacar la basura,4,45,Baja,Ventoso,Noche
+Sacar la basura,3,20,Media,Lluvioso,Noche
+Limpiar cocina,3,45,Baja,Nublado,Mañana
+Limpiar cocina,4,45,Alta,Nublado,Tarde
+Pasar la aspiradora,4,15,Alta,Lluvioso,Mañana
+Lavar ropa,3,75,Alta,Ventoso,Tarde
+Cocinar,4,90,Baja,Ventoso,Tarde
+Regar plantas,2,75,Media,Soleado,Noche
+Barrer,3,15,Media,Soleado,Tarde
+Sacar la basura,3,20,Media,Nublado,Noche
+Limpiar cocina,5,75,Baja,Nublado,Tarde
+Limpiar ventanas,2,90,Baja,Soleado,Tarde
+Lavar platos,5,10,Media,Ventoso,Noche
+Tender cama,5,20,Alta,Lluvioso,Noche
+Limpiar cocina,1,60,Media,Soleado,Mañana
+Planchar ropa,5,60,Media,Lluvioso,Tarde
+Organizar sala,1,10,Media,Lluvioso,Mañana
+Sacar la basura,5,20,Alta,Ventoso,Tarde
+Barrer,4,45,Media,Soleado,Tarde
+Lavar platos,5,30,Alta,Soleado,Noche
+Pasar la aspiradora,3,45,Media,Ventoso,Noche
+Limpiar ventanas,4,20,Baja,Ventoso,Noche
+Limpiar ventanas,5,75,Media,Soleado,Noche
+Lavar platos,4,90,Alta,Soleado,Mañana
+Organizar sala,2,60,Media,Ventoso,Noche
+Cocinar,5,60,Alta,Nublado,Mañana
+Cocinar,3,60,Alta,Nublado,Noche
+Planchar ropa,2,90,Alta,Ventoso,Noche
+Limpiar baño,2,90,Baja,Lluvioso,Tarde
+Regar plantas,5,15,Alta,Ventoso,Noche
+Regar plantas,1,10,Baja,Soleado,Tarde
+Tender cama,1,90,Baja,Ventoso,Noche
+Sacar la basura,5,45,Baja,Nublado,Mañana
+Planchar ropa,5,75,Alta,Ventoso,Tarde
+Tender cama,4,30,Baja,Soleado,Mañana
+Lavar ropa,3,30,Baja,Ventoso,Tarde
+Barrer,2,30,Baja,Ventoso,Tarde
+Pasar la aspiradora,3,20,Alta,Nublado,Tarde
+Pasar la aspiradora,1,90,Media,Lluvioso,Tarde
+Pasar la aspiradora,3,30,Baja,Lluvioso,Mañana
+Sacar la basura,5,75,Alta,Soleado,Noche
+Tender cama,3,60,Baja,Soleado,Tarde
+Barrer,3,45,Alta,Lluvioso,Noche
+Sacar la basura,2,30,Media,Lluvioso,Noche
+Sacar la basura,3,10,Media,Lluvioso,Tarde
+Sacar la basura,3,20,Alta,Soleado,Noche
+Regar plantas,5,10,Media,Nublado,Tarde
+Cocinar,4,45,Alta,Lluvioso,Tarde
+Limpiar baño,1,10,Alta,Nublado,Mañana
+Barrer,3,90,Media,Soleado,Tarde
+Pasar la aspiradora,3,20,Media,Lluvioso,Tarde
+Lavar platos,4,60,Media,Lluvioso,Tarde
+Limpiar ventanas,5,15,Media,Nublado,Noche
+Regar plantas,5,75,Alta,Ventoso,Mañana
+Lavar ropa,1,20,Media,Lluvioso,Tarde
+Limpiar ventanas,3,10,Alta,Nublado,Noche
+Pasar la aspiradora,1,30,Baja,Ventoso,Noche
+Planchar ropa,2,15,Baja,Ventoso,Mañana
+Lavar platos,5,30,Alta,Ventoso,Mañana
+Barrer,2,90,Baja,Ventoso,Noche
+Lavar ropa,3,75,Alta,Ventoso,Tarde
+Regar plantas,5,75,Alta,Soleado,Noche
+Limpiar ventanas,3,90,Alta,Ventoso,Tarde
+Organizar sala,3,60,Baja,Ventoso,Noche
+Sacar la basura,5,90,Media,Nublado,Noche
+Regar plantas,2,20,Baja,Nublado,Mañana
+Regar plantas,5,30,Baja,Nublado,Tarde
+Lavar platos,1,45,Alta,Nublado,Tarde
+Planchar ropa,1,90,Media,Ventoso,Mañana
+Lavar ropa,5,60,Alta,Nublado,Noche
+Sacar la basura,4,30,Alta,Lluvioso,Mañana
+Pasar la aspiradora,3,30,Baja,Nublado,Mañana
+Limpiar ventanas,4,30,Alta,Lluvioso,Noche
+Cocinar,4,20,Alta,Lluvioso,Tarde
+Lavar platos,1,60,Baja,Lluvioso,Mañana
+Barrer,5,90,Baja,Nublado,Noche
+Limpiar cocina,5,90,Baja,Nublado,Mañana
+Cocinar,4,45,Media,Ventoso,Noche
+Barrer,2,30,Baja,Lluvioso,Mañana
+Barrer,2,15,Baja,Lluvioso,Mañana
+Limpiar baño,1,75,Alta,Ventoso,Tarde
+Limpiar cocina,5,10,Media,Lluvioso,Mañana
+Limpiar cocina,3,10,Media,Nublado,Noche
+Planchar ropa,5,90,Baja,Nublado,Tarde
+Organizar sala,3,20,Media,Ventoso,Tarde
+Organizar sala,2,20,Baja,Lluvioso,Noche
+Sacar la basura,2,90,Media,Nublado,Tarde
+Limpiar cocina,4,60,Baja,Nublado,Tarde
+Tender cama,5,30,Media,Lluvioso,Tarde
+Limpiar cocina,5,45,Media,Ventoso,Noche
+Planchar ropa,2,30,Alta,Soleado,Tarde
+Lavar ropa,3,60,Baja,Soleado,Mañana
+Lavar ropa,3,45,Media,Nublado,Tarde
+Lavar platos,5,75,Media,Nublado,Tarde
+Limpiar cocina,2,30,Media,Lluvioso,Noche
+Organizar sala,2,10,Media,Nublado,Tarde
+Limpiar baño,3,30,Baja,Ventoso,Tarde
+Organizar sala,5,20,Media,Lluvioso,Noche
+Limpiar ventanas,2,75,Alta,Nublado,Tarde
+Organizar sala,1,75,Alta,Soleado,Tarde
+Organizar sala,5,90,Baja,Ventoso,Mañana
+Tender cama,1,20,Media,Soleado,Mañana
+Organizar sala,4,10,Media,Lluvioso,Tarde
+Sacar la basura,3,10,Baja,Ventoso,Noche
+Planchar ropa,4,90,Media,Ventoso,Tarde
+Regar plantas,5,10,Alta,Ventoso,Mañana
+Organizar sala,3,90,Baja,Ventoso,Mañana
+Barrer,1,15,Media,Soleado,Tarde
+Sacar la basura,4,15,Baja,Ventoso,Tarde
+Lavar platos,1,10,Baja,Ventoso,Mañana
+Planchar ropa,4,75,Baja,Lluvioso,Mañana
+Barrer,1,10,Alta,Ventoso,Tarde
+Cocinar,5,15,Media,Nublado,Tarde
+Barrer,3,90,Baja,Lluvioso,Mañana
+Cocinar,2,75,Baja,Soleado,Mañana
+Cocinar,4,15,Media,Soleado,Noche
+Lavar platos,1,75,Media,Lluvioso,Tarde
+Regar plantas,4,90,Baja,Lluvioso,Noche
+Limpiar baño,2,90,Alta,Soleado,Mañana
+Limpiar cocina,1,75,Media,Lluvioso,Mañana
+Limpiar cocina,5,90,Baja,Nublado,Tarde
+Limpiar ventanas,4,10,Baja,Lluvioso,Mañana
+Cocinar,5,10,Alta,Lluvioso,Tarde
+Regar plantas,5,30,Baja,Nublado,Mañana
+Sacar la basura,5,60,Alta,Soleado,Tarde
+Organizar sala,3,75,Media,Lluvioso,Mañana
+Planchar ropa,4,75,Baja,Ventoso,Noche
+Barrer,3,20,Alta,Lluvioso,Mañana
+Planchar ropa,2,10,Media,Soleado,Tarde
+Planchar ropa,5,30,Alta,Soleado,Noche
+Regar plantas,1,45,Baja,Nublado,Tarde
+Limpiar baño,2,20,Media,Nublado,Noche
+Limpiar ventanas,5,10,Media,Ventoso,Mañana
+Sacar la basura,1,15,Alta,Nublado,Tarde
+Lavar platos,1,30,Baja,Soleado,Tarde
+Pasar la aspiradora,5,30,Alta,Lluvioso,Tarde
+Limpiar baño,4,15,Media,Ventoso,Mañana
+Sacar la basura,1,10,Media,Soleado,Tarde
+Cocinar,2,75,Alta,Lluvioso,Noche
+Sacar la basura,4,60,Media,Soleado,Tarde
+Lavar ropa,3,30,Baja,Soleado,Noche
+Limpiar baño,1,10,Alta,Nublado,Noche
