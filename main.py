@@ -6,7 +6,7 @@ import src.eval as evaluation
 
 def main():
     df = pd.read_csv("data/source/tareas_hogar_dataset.csv")
-    x_train, x_test, y_train, y_test = preprocessing.preprocess_data(df)
+    x_train, x_test, y_train, y_test, mapping_time, mapping_difficult = preprocessing.preprocess_data(df)
 
     model_path = "models/model.pkl"
     if os.path.exists(model_path):
@@ -16,7 +16,6 @@ def main():
         print("Entrenando modelo desde cero...")
         model = training.train_model(x_train, y_train, save_path=model_path)
 
-    evaluation.evaluate_model(model, x_test, y_test)
-
+    evaluation.evaluate_model(model, x_test, y_test, mapping_time, mapping_difficult)
 if __name__ == "__main__":
     main()
