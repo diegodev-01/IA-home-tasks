@@ -9,8 +9,7 @@ def preprocess_data(df):
     le_task = LabelEncoder()
     le_time = LabelEncoder()
     le_difficult = LabelEncoder()
-
-    # Codifica las columnas categóricas que son features
+    
     df["priority"] = le_priority.fit_transform(df["priority"])
     df["weather"] = le_weather.fit_transform(df["weather"])
     df["hour"] = le_hour.fit_transform(df["hour"])
@@ -19,6 +18,8 @@ def preprocess_data(df):
     # Codifica las columnas objetivo (targets)
     df["time"] = le_time.fit_transform(df["time"])
     df["difficult"] = le_difficult.fit_transform(df["difficult"])
+    mapping_time = dict(enumerate(le_time.classes_))
+    mapping_difficult = dict(enumerate(le_difficult.classes_))
 
     # Features (X): task, priority, weather, hour
     X = df[["task", "priority", "weather", "hour"]]
@@ -31,4 +32,4 @@ def preprocess_data(df):
         X, y, test_size=0.2, random_state=42
     )
 
-    return x_train, x_test, y_train, y_test
+    return x_train, x_test, y_train, y_test, mapping_time, mapping_difficult
