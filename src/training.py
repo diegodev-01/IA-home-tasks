@@ -1,10 +1,10 @@
 from sklearn.multioutput import MultiOutputClassifier
-from sklearn.ensemble import RandomForestClassifier
+from sklearn_.linear_model import LogisticRegression
 import joblib
 import os
 
 def train_model(x_train, y_train, save_path="models/model.pkl"):
-    base_model = RandomForestClassifier(n_estimators=100, random_state=42)
+    base_model = LogisticRegression(multi_class='multinomial', solver='saga', max_iter=10000)
     model = MultiOutputClassifier(base_model)
     model.fit(x_train, y_train)
 

@@ -1,7 +1,6 @@
 from sklearn.metrics import accuracy_score, classification_report
 import matplotlib.pyplot as plt
 import pandas as pd
-import seaborn as sns
 
 def format_report(report, mapping):
     """
@@ -48,7 +47,6 @@ def evaluate_model(model, x_test, y_test, mapping_time, mapping_difficult):
     df_difficult = format_report(report_difficult, mapping_difficult)
     
     # 1. Gráfica de barras para las métricas por clase - Time
-    plt.figure(figsize=(10,6))
     df_time[['precision', 'recall', 'f1-score']].plot(kind='bar', rot=0)
     plt.title('Métricas por Clase - Time')
     plt.xlabel('Clase')
